@@ -8,7 +8,7 @@ Welcome to the project!!
 Our idea of the project is to make changes in House Rental Management System.
 This makes the migrants to go no where in search of houses except our Site.😁
 
-Now coming to the point the project is divided into 
+Now coming to the point the project is divided into many modules.
 
 Group Members
 
